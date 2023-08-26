@@ -194,5 +194,17 @@ main{
 .sponsors-card-container{
     display: flex;
     justify-content: space-evenly;
-    margin: 50px 0 130px 0;
+    margin: 50px 0 100px 0;
+}
+/* footer styles */
+.footer-content{
+    margin: 100px auto;
+    width: 1050px;
+    border-radius: 8px;
+    background: #FFF4E7;
+    padding: 10px;
+}
+.footer-text{
+    text-align: center;
+    color: var(--dark-02);
 }
